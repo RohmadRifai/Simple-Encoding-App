@@ -1,4 +1,4 @@
-# test_application
+# Simple Encoding App
 
 How to run the program :
 
